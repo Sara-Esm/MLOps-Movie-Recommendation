@@ -1,1 +1,1 @@
-# MLOps-Movie-Recommendation
+# MLOps - Movie Recommendation
